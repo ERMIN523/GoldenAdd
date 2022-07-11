@@ -1,3 +1,3 @@
-# quasarframework-fg7rdw
+# Łatwy projekt do zrealizowania w "Quasar"
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quasarframework-fg7rdw)
+Discord - ღ ERMIN#1010
